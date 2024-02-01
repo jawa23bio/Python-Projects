@@ -1,1 +1,1 @@
-# A repository of my highlight Python projects
+# A repository with my highlight Python projects
