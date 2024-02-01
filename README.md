@@ -1,2 +1,1 @@
-# Jawa-BF550
- BF550 Assignments
+# A repository of my highlight Python projects
